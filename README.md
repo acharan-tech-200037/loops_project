@@ -49,3 +49,7 @@ source .venv/bin/activate
 
 # 5. Install dependencies
 pip install -r requirements.txt
+
+# 6. Run application 
+* for ir drop : streamlit run main.py
+* for billing : streamlit run bill_app.py                                                     
